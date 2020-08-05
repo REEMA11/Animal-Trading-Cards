@@ -1,0 +1,31 @@
+.firstbox{
+    display:flex;
+    flex-wrap: wrap;
+    border: 2px solid gray;
+    border-style: dotted;
+    margin: 1em;
+    padding: 0.5em;
+    width: 300px; 
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.png{
+    padding-bottom: 0.5em;
+    width:300px;
+    height: 200px;
+}
+.secbox{
+    border: 2px solid gray;
+    border-style: dotted;
+    height: 300px;
+    width:300px;
+    padding:0.5em;
+    color: black;
+    font-size: medium;
+}
+.italic{
+    font-style: italic;
+}
+span{
+    font-weight: bold;
+}
